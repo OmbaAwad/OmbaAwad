@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awad Burhan</h1>
-<h3 align="center">I'm Telecommunication Engineer, passionate Data Analyst, AI Researcher. with 7 Years of experience. Expert in SQL, Power BI, Microsoft Excel and Python. Talented performer, creative, consistent team player with exemplary multitasking skills, excellent t interpersonal and soft skills. I have proven track record of achieving goals.</h3>
+<h3 align="center">I'm passionate Data Analyst, AI Researcher. with 9 Years of experience. Expert in SQL, Power BI, Microsoft Excel and Python. Talented performer, creative, consistent team player with exemplary multitasking skills, excellent t interpersonal and soft skills. I have proven track record of achieving goals.</h3>
 
 - 🔭 I’m currently working on **Face Recognition**
 
