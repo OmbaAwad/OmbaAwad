@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Awad Burhan</h1>
-<h3 align="center">I'm passionate Data Analyst. with 9 Years of experience. Expert in SQL, Power BI, Microsoft Excel and Python. Talented performer, creative, consistent team player with exemplary multitasking skills, excellent t interpersonal and soft skills. I have proven track record of achieving goals.</h3>
+<h3 align="center">I'm a seasoned Data Analyst with a passion for harnessing the power of data to drive business decisions. With a strong foundation in Telecommunications Engineering and a Master's degree in Mechatronics, I bring a unique blend of technical expertise and analytical skills to the table.
+Currently, I'm expanding my knowledge and skills by pursuing the IBM Data Engineering Professional Certificate program.
+I'm Expert in SQL, Power BI, Microsoft Excel and Python.
+Talented performer, creative, consistent team player with exemplary multitasking skills, excellent t interpersonal and soft skills. I have proven track record of achieving goals.
+I'm always eager to collaborate with talented individuals and explore new opportunities..</h3>
 
 - 🔭 I’m currently working on **Face Recognition**
 
